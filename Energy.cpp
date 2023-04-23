@@ -16,5 +16,6 @@ int main(array<String ^> ^args)
 {
     float E(0.0), m(0.0), c(0.0);
     E = m*(c*c);
+    Console::WriteLine(E); // 0
     return 0;
 }

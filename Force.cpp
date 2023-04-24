@@ -16,5 +16,6 @@ using namespace System;
 int main(array<String ^> ^args)
 {
     float F(0.0), m(0.0), a(0.0);
+    F = m*a;
     return 0;
 }

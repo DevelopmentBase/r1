@@ -14,5 +14,6 @@ using namespace System;
 
 int main(array<String ^> ^args)
 {
+    float R(0.0), V(220.0), I(0.44);
     return 0;
 }
